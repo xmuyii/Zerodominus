@@ -1,0 +1,4727 @@
+{
+  "timestamp": "2026-04-15_14-58-12",
+  "user_id": "7645856960",
+  "reason": "slot_1",
+  "state": {
+    "id": 1,
+    "user_id": "7645856960",
+    "username": "Purpled",
+    "all_time_points": 13131017,
+    "weekly_points": 11254476,
+    "week_start": "2026-04-12",
+    "total_words": 4302,
+    "bitcoin": 21812938,
+    "xp": 71156,
+    "level": 712,
+    "backpack_slots": 20,
+    "backpack_image": "normal_backpack",
+    "inventory": [
+      {
+        "type": "mythic_shard",
+        "amount": 1,
+        "xp_reward": 0,
+        "acquired": "2026-04-09T04:46:11.535742",
+        "id": 4
+      },
+      {
+        "id": 1,
+        "type": "locked_legendary_artifact",
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "acquired": "2026-04-09T10:33:36.925064"
+      },
+      {
+        "id": 7,
+        "type": "locked_celestial_key",
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "acquired": "2026-04-12T06:16:27.756582"
+      },
+      {
+        "id": 8,
+        "type": "eternal_shield",
+        "xp_reward": 1,
+        "multiplier_value": 0,
+        "expires_at": null,
+        "acquired": "2026-04-12T06:27:14.239425"
+      },
+      {
+        "id": 9,
+        "type": "scout",
+        "xp_reward": 1,
+        "multiplier_value": 0,
+        "expires_at": null,
+        "acquired": "2026-04-12T06:27:29.381435"
+      }
+    ],
+    "unclaimed_items": [
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 125,
+        "claimed": false,
+        "created_at": "2026-04-09T03:00:39.020397"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 56,
+        "claimed": false,
+        "created_at": "2026-04-09T03:15:58.951046"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 81,
+        "claimed": false,
+        "created_at": "2026-04-09T03:18:17.163922"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 200,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:18:41.862249"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 18,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:37:57.776932"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 194,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:37:58.564315"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:40:06.393520"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 97,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:40:07.274089"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 75,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:42:27.632678"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 191,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:44:45.529978"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 60,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:44:46.758345"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 64,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:49:24.573580"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 93,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T04:49:25.323408"
+      },
+      {
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "claimed": false,
+        "created_at": "2026-04-09T04:49:25.682938"
+      },
+      {
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 114,
+        "multiplier_value": 0,
+        "claimed": false,
+        "created_at": "2026-04-09T05:00:52.610182"
+      },
+      {
+        "id": 1,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 177,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T08:43:49.366640"
+      },
+      {
+        "id": 2,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 73,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T08:43:52.020531"
+      },
+      {
+        "id": 3,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T08:43:53.014607"
+      },
+      {
+        "id": 5,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 68,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T08:47:59.422532"
+      },
+      {
+        "id": 6,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T08:48:00.413824"
+      },
+      {
+        "id": 7,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 168,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T08:51:38.961716"
+      },
+      {
+        "id": 8,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 55,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T08:51:40.920633"
+      },
+      {
+        "id": 9,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T08:51:42.044162"
+      },
+      {
+        "id": 10,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 150,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:04:09.352302"
+      },
+      {
+        "id": 11,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 188,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:04:11.499884"
+      },
+      {
+        "id": 12,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T09:04:12.327267"
+      },
+      {
+        "id": 13,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 156,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:10:59.670348"
+      },
+      {
+        "id": 14,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 190,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:11:01.312619"
+      },
+      {
+        "id": 15,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T09:11:02.436803"
+      },
+      {
+        "id": 17,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 72,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:22:31.715377"
+      },
+      {
+        "id": 18,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 83,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:22:33.342520"
+      },
+      {
+        "id": 19,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T09:22:34.280254"
+      },
+      {
+        "id": 20,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 164,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:32:18.549993"
+      },
+      {
+        "id": 22,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T09:32:21.714947"
+      },
+      {
+        "id": 25,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T09:36:20.937928"
+      },
+      {
+        "id": 26,
+        "type": "locked_eternal_flame",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:36:21.987354"
+      },
+      {
+        "id": 27,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T09:39:49.322263"
+      },
+      {
+        "id": 29,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 109,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T10:55:09.202351"
+      },
+      {
+        "id": 30,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T10:55:09.646039"
+      },
+      {
+        "id": 31,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 65,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T10:57:36.098697"
+      },
+      {
+        "id": 32,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 84,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T10:57:36.688088"
+      },
+      {
+        "id": 33,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T10:57:36.940379"
+      },
+      {
+        "id": 34,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 100,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T10:59:59.012061"
+      },
+      {
+        "id": 35,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 151,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T10:59:59.259182"
+      },
+      {
+        "id": 39,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 153,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:04:46.781239"
+      },
+      {
+        "id": 41,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:04:47.634856"
+      },
+      {
+        "id": 46,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 52,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:16:22.649335"
+      },
+      {
+        "id": 47,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:16:22.926459"
+      },
+      {
+        "id": 49,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 160,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:18:41.423812"
+      },
+      {
+        "id": 50,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 101,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:31:03.088250"
+      },
+      {
+        "id": 51,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 105,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:31:03.345146"
+      },
+      {
+        "id": 52,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 93,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:31:04.147537"
+      },
+      {
+        "id": 53,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:31:04.402714"
+      },
+      {
+        "id": 54,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 171,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:33:30.851103"
+      },
+      {
+        "id": 55,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 72,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:33:32.612748"
+      },
+      {
+        "id": 56,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:33:32.849848"
+      },
+      {
+        "id": 57,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 144,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:36:04.467688"
+      },
+      {
+        "id": 58,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:38:34.162675"
+      },
+      {
+        "id": 59,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 196,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:38:34.944599"
+      },
+      {
+        "id": 60,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:38:35.195692"
+      },
+      {
+        "id": 61,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 199,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:41:01.998594"
+      },
+      {
+        "id": 62,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 125,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:41:02.799521"
+      },
+      {
+        "id": 63,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:41:03.067512"
+      },
+      {
+        "id": 64,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 173,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:43:29.530342"
+      },
+      {
+        "id": 65,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 119,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:43:30.299165"
+      },
+      {
+        "id": 66,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:43:30.593737"
+      },
+      {
+        "id": 67,
+        "type": "locked_mythical_crown",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:43:30.850272"
+      },
+      {
+        "id": 68,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 80,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:45:53.696842"
+      },
+      {
+        "id": 69,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 124,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:48:16.205158"
+      },
+      {
+        "id": 70,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 58,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T11:48:16.766075"
+      },
+      {
+        "id": 71,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T11:48:17.017420"
+      },
+      {
+        "id": 72,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 140,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:44:30.905131"
+      },
+      {
+        "id": 73,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 96,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:44:31.477947"
+      },
+      {
+        "id": 74,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T13:44:31.753708"
+      },
+      {
+        "id": 75,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 113,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:46:59.201713"
+      },
+      {
+        "id": 76,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 164,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:46:59.834001"
+      },
+      {
+        "id": 77,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T13:47:00.115908"
+      },
+      {
+        "id": 78,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 115,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:49:22.738274"
+      },
+      {
+        "id": 79,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 118,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:49:23.032957"
+      },
+      {
+        "id": 80,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 117,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:51:50.370010"
+      },
+      {
+        "id": 81,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 99,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:51:50.933585"
+      },
+      {
+        "id": 82,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T13:51:51.217721"
+      },
+      {
+        "id": 83,
+        "type": "locked_void_stone",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:51:51.488583"
+      },
+      {
+        "id": 84,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 149,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:54:17.507528"
+      },
+      {
+        "id": 85,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 153,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:56:44.015105"
+      },
+      {
+        "id": 86,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 195,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:56:44.289967"
+      },
+      {
+        "id": 87,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 57,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:56:44.872017"
+      },
+      {
+        "id": 88,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T13:56:45.184236"
+      },
+      {
+        "id": 89,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 155,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:59:16.417419"
+      },
+      {
+        "id": 90,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 55,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T13:59:17.068560"
+      },
+      {
+        "id": 91,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T13:59:17.405534"
+      },
+      {
+        "id": 92,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 74,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:02:08.173952"
+      },
+      {
+        "id": 93,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 185,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:02:08.774071"
+      },
+      {
+        "id": 94,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T14:02:09.077195"
+      },
+      {
+        "id": 95,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 81,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:04:36.846544"
+      },
+      {
+        "id": 96,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 91,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:04:37.507456"
+      },
+      {
+        "id": 97,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T14:04:37.831987"
+      },
+      {
+        "id": 98,
+        "type": "locked_mythical_crown",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:04:38.126445"
+      },
+      {
+        "id": 99,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 59,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:06:56.989169"
+      },
+      {
+        "id": 100,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 63,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:06:57.566492"
+      },
+      {
+        "id": 101,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T14:06:57.835845"
+      },
+      {
+        "id": 102,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 55,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T14:35:31.883159"
+      },
+      {
+        "id": 103,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 166,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:17:06.230833"
+      },
+      {
+        "id": 104,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 114,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:19:34.072499"
+      },
+      {
+        "id": 105,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 53,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:19:34.862871"
+      },
+      {
+        "id": 106,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:19:35.376272"
+      },
+      {
+        "id": 107,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 199,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:22:04.064699"
+      },
+      {
+        "id": 108,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 134,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:22:04.654713"
+      },
+      {
+        "id": 109,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:22:04.949367"
+      },
+      {
+        "id": 110,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 154,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:24:38.195525"
+      },
+      {
+        "id": 111,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 133,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:24:38.488455"
+      },
+      {
+        "id": 112,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 110,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:24:39.411408"
+      },
+      {
+        "id": 113,
+        "type": "xp_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:24:39.710231"
+      },
+      {
+        "id": 114,
+        "type": "locked_eternal_flame",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:24:40.025495"
+      },
+      {
+        "id": 115,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 146,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:27:02.262298"
+      },
+      {
+        "id": 116,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 78,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:49:41.209191"
+      },
+      {
+        "id": 117,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 86,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:49:42.139951"
+      },
+      {
+        "id": 118,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:49:42.436319"
+      },
+      {
+        "id": 119,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 200,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:52:09.364424"
+      },
+      {
+        "id": 120,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 161,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:52:09.656913"
+      },
+      {
+        "id": 121,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 156,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:52:10.335551"
+      },
+      {
+        "id": 122,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:52:10.645407"
+      },
+      {
+        "id": 123,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 101,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:55:18.598777"
+      },
+      {
+        "id": 124,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 199,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:56:51.774600"
+      },
+      {
+        "id": 125,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 67,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:56:52.112567"
+      },
+      {
+        "id": 126,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 80,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:57:37.556107"
+      },
+      {
+        "id": 127,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 78,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T15:57:38.102728"
+      },
+      {
+        "id": 128,
+        "type": "silver_multiplier",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 2,
+        "created_at": "2026-04-09T15:57:38.386403"
+      },
+      {
+        "id": 129,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 156,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T21:40:59.572903"
+      },
+      {
+        "id": 130,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 119,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T21:50:47.829269"
+      },
+      {
+        "id": 131,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 142,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T21:55:46.968217"
+      },
+      {
+        "id": 132,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 173,
+        "multiplier_value": 0,
+        "created_at": "2026-04-09T22:32:52.034546"
+      },
+      {
+        "id": 133,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 166,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T00:32:17.513549"
+      },
+      {
+        "id": 134,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 158,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T00:47:37.686168"
+      },
+      {
+        "id": 135,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 187,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T00:57:06.900922"
+      },
+      {
+        "id": 136,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 119,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:08:20.877940"
+      },
+      {
+        "id": 137,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 91,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:11:37.683425"
+      },
+      {
+        "id": 138,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 79,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:11:38.092729"
+      },
+      {
+        "id": 139,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 150,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:32:06.070990"
+      },
+      {
+        "id": 140,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 122,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:33:02.604850"
+      },
+      {
+        "id": 141,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 76,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T01:35:55.113068"
+      },
+      {
+        "id": 142,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 59,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T05:33:33.487537"
+      },
+      {
+        "id": 143,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 148,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T07:06:29.404051"
+      },
+      {
+        "id": 144,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 184,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T07:08:55.122913"
+      },
+      {
+        "id": 145,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 158,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T08:16:37.119968"
+      },
+      {
+        "id": 146,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 54,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T08:16:37.638096"
+      },
+      {
+        "id": 147,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 178,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T08:19:05.245850"
+      },
+      {
+        "id": 148,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 189,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T08:21:23.760365"
+      },
+      {
+        "id": 149,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 86,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T08:23:48.591540"
+      },
+      {
+        "id": 150,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 82,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T09:24:15.882178"
+      },
+      {
+        "id": 151,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 174,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T09:26:59.149197"
+      },
+      {
+        "id": 152,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 136,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T09:29:29.780775"
+      },
+      {
+        "id": 153,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 67,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T09:29:30.033131"
+      },
+      {
+        "id": 154,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 166,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T09:31:54.145216"
+      },
+      {
+        "id": 155,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 164,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T10:10:03.321313"
+      },
+      {
+        "id": 156,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 143,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T11:16:18.822288"
+      },
+      {
+        "id": 157,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 193,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T11:16:19.082601"
+      },
+      {
+        "id": 158,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 99,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T11:18:49.898878"
+      },
+      {
+        "id": 159,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 172,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T11:23:33.821586"
+      },
+      {
+        "id": 160,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 85,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T11:23:34.087646"
+      },
+      {
+        "id": 161,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 111,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T18:18:22.218697"
+      },
+      {
+        "id": 162,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 178,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T18:18:22.512518"
+      },
+      {
+        "id": 163,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 185,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T18:23:03.765315"
+      },
+      {
+        "id": 164,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 118,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T18:25:23.565520"
+      },
+      {
+        "id": 165,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 194,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:30:42.903416"
+      },
+      {
+        "id": 166,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 124,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:33:33.822950"
+      },
+      {
+        "id": 167,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 188,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:36:13.269933"
+      },
+      {
+        "id": 168,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 59,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:38:55.227206"
+      },
+      {
+        "id": 169,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 138,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:41:27.081385"
+      },
+      {
+        "id": 170,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 82,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:43:56.295824"
+      },
+      {
+        "id": 171,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 54,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:43:56.840532"
+      },
+      {
+        "id": 172,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 187,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:46:29.753905"
+      },
+      {
+        "id": 173,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 188,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:49:06.299792"
+      },
+      {
+        "id": 174,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 151,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:51:27.503572"
+      },
+      {
+        "id": 175,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 98,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:53:58.351615"
+      },
+      {
+        "id": 176,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 168,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:56:29.676633"
+      },
+      {
+        "id": 177,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 87,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T22:58:55.678252"
+      },
+      {
+        "id": 178,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 79,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:01:37.775842"
+      },
+      {
+        "id": 179,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 92,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:04:10.383960"
+      },
+      {
+        "id": 180,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 163,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:04:10.896297"
+      },
+      {
+        "id": 181,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 173,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:06:34.746285"
+      },
+      {
+        "id": 182,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 171,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:09:08.704309"
+      },
+      {
+        "id": 183,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 84,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:11:40.990331"
+      },
+      {
+        "id": 184,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 108,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:14:11.960895"
+      },
+      {
+        "id": 185,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 163,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:16:36.901032"
+      },
+      {
+        "id": 186,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 91,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:19:02.807280"
+      },
+      {
+        "id": 187,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 195,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:21:30.892410"
+      },
+      {
+        "id": 188,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 149,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:24:02.544536"
+      },
+      {
+        "id": 189,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 165,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:26:40.608668"
+      },
+      {
+        "id": 190,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 94,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:29:26.455713"
+      },
+      {
+        "id": 191,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 59,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:32:01.320607"
+      },
+      {
+        "id": 192,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 50,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:34:36.464914"
+      },
+      {
+        "id": 193,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 83,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:37:03.122678"
+      },
+      {
+        "id": 194,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 126,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:37:03.674583"
+      },
+      {
+        "id": 195,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:39:37.235048"
+      },
+      {
+        "id": 196,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 121,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:42:13.997965"
+      },
+      {
+        "id": 197,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 74,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:44:52.904427"
+      },
+      {
+        "id": 198,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 121,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:47:23.710252"
+      },
+      {
+        "id": 199,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 121,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:52:20.822919"
+      },
+      {
+        "id": 200,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 175,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:54:52.811875"
+      },
+      {
+        "id": 201,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 133,
+        "multiplier_value": 0,
+        "created_at": "2026-04-10T23:57:29.497522"
+      },
+      {
+        "id": 202,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 90,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T00:00:02.901945"
+      },
+      {
+        "id": 203,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 150,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T00:02:51.497866"
+      },
+      {
+        "id": 204,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 103,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:05:53.016474"
+      },
+      {
+        "id": 205,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 132,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:08:17.544881"
+      },
+      {
+        "id": 206,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 97,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:12:57.366799"
+      },
+      {
+        "id": 207,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 85,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:15:25.782644"
+      },
+      {
+        "id": 208,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 122,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:17:52.981362"
+      },
+      {
+        "id": 209,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 171,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:34:45.124863"
+      },
+      {
+        "id": 210,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 198,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T07:37:02.755602"
+      },
+      {
+        "id": 211,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 174,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T15:34:22.555494"
+      },
+      {
+        "id": 212,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 131,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T15:36:53.755872"
+      },
+      {
+        "id": 213,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:03:01.487935"
+      },
+      {
+        "id": 214,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:03:01.795194"
+      },
+      {
+        "id": 215,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:03:02.145974"
+      },
+      {
+        "id": 216,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 50,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:06:09.312698"
+      },
+      {
+        "id": 217,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:10:08.831945"
+      },
+      {
+        "id": 218,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:10:09.129088"
+      },
+      {
+        "id": 219,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:10:09.428258"
+      },
+      {
+        "id": 220,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 65,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:38:48.711930"
+      },
+      {
+        "id": 221,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 113,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:41:25.152853"
+      },
+      {
+        "id": 222,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 146,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:44:35.297838"
+      },
+      {
+        "id": 223,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T16:46:55.247311"
+      },
+      {
+        "id": 224,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T17:14:03.892561"
+      },
+      {
+        "id": 225,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T17:14:04.201296"
+      },
+      {
+        "id": 226,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T17:14:04.473382"
+      },
+      {
+        "id": 227,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 67,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T17:17:17.580011"
+      },
+      {
+        "id": 228,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:03:58.380952"
+      },
+      {
+        "id": 229,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:03:58.913872"
+      },
+      {
+        "id": 230,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:03:59.208537"
+      },
+      {
+        "id": 231,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:04:05.045172"
+      },
+      {
+        "id": 232,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:04:05.336096"
+      },
+      {
+        "id": 233,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:04:05.597825"
+      },
+      {
+        "id": 234,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 175,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:10:04.637670"
+      },
+      {
+        "id": 235,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:30.994978"
+      },
+      {
+        "id": 236,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:31.288303"
+      },
+      {
+        "id": 237,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:31.574572"
+      },
+      {
+        "id": 238,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:37.539509"
+      },
+      {
+        "id": 239,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:37.827037"
+      },
+      {
+        "id": 240,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:14:38.128079"
+      },
+      {
+        "id": 241,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:26.410509"
+      },
+      {
+        "id": 242,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:26.680437"
+      },
+      {
+        "id": 243,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:26.961787"
+      },
+      {
+        "id": 244,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:31.279742"
+      },
+      {
+        "id": 245,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:31.901061"
+      },
+      {
+        "id": 246,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:16:32.210327"
+      },
+      {
+        "id": 247,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:00.580528"
+      },
+      {
+        "id": 248,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:00.879081"
+      },
+      {
+        "id": 249,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:01.160445"
+      },
+      {
+        "id": 250,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:06.738031"
+      },
+      {
+        "id": 251,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:07.039912"
+      },
+      {
+        "id": 252,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:18:07.342052"
+      },
+      {
+        "id": 253,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:00.614603"
+      },
+      {
+        "id": 254,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:00.924109"
+      },
+      {
+        "id": 255,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:01.378809"
+      },
+      {
+        "id": 256,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:16.655967"
+      },
+      {
+        "id": 257,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:17.302877"
+      },
+      {
+        "id": 258,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:17.573722"
+      },
+      {
+        "id": 259,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:23.310422"
+      },
+      {
+        "id": 260,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:23.582481"
+      },
+      {
+        "id": 261,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:26:23.849424"
+      },
+      {
+        "id": 262,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:21.512363"
+      },
+      {
+        "id": 263,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:22.014902"
+      },
+      {
+        "id": 264,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:22.486184"
+      },
+      {
+        "id": 265,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:28.659105"
+      },
+      {
+        "id": 266,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:28.926202"
+      },
+      {
+        "id": 267,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:29:29.195342"
+      },
+      {
+        "id": 268,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:05.223180"
+      },
+      {
+        "id": 269,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:05.547647"
+      },
+      {
+        "id": 270,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:05.833723"
+      },
+      {
+        "id": 271,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:11.987657"
+      },
+      {
+        "id": 272,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:12.322852"
+      },
+      {
+        "id": 273,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T18:48:12.595827"
+      },
+      {
+        "id": 274,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:21:55.081028"
+      },
+      {
+        "id": 275,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:21:55.407685"
+      },
+      {
+        "id": 276,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:21:55.710190"
+      },
+      {
+        "id": 277,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:22:02.492059"
+      },
+      {
+        "id": 278,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:22:02.822789"
+      },
+      {
+        "id": 279,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:22:03.174986"
+      },
+      {
+        "id": 280,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:09.424093"
+      },
+      {
+        "id": 281,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:09.716853"
+      },
+      {
+        "id": 282,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:10.010412"
+      },
+      {
+        "id": 283,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:16.205837"
+      },
+      {
+        "id": 284,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:16.527495"
+      },
+      {
+        "id": 285,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:26:16.811673"
+      },
+      {
+        "id": 286,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 83,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:34:26.785543"
+      },
+      {
+        "id": 287,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 107,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:37:07.999409"
+      },
+      {
+        "id": 288,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 102,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:37:08.278323"
+      },
+      {
+        "id": 289,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 82,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:52:17.441695"
+      },
+      {
+        "id": 290,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:53:16.819950"
+      },
+      {
+        "id": 291,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 152,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:55:19.728337"
+      },
+      {
+        "id": 292,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 101,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:55:20.027998"
+      },
+      {
+        "id": 293,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 78,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T19:57:56.413972"
+      },
+      {
+        "id": 294,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 92,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:00:39.286564"
+      },
+      {
+        "id": 295,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:43.207870"
+      },
+      {
+        "id": 296,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:43.500453"
+      },
+      {
+        "id": 297,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:43.795770"
+      },
+      {
+        "id": 298,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:49.782508"
+      },
+      {
+        "id": 299,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:50.072249"
+      },
+      {
+        "id": 300,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:02:50.432034"
+      },
+      {
+        "id": 301,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:27.338663"
+      },
+      {
+        "id": 302,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:27.614874"
+      },
+      {
+        "id": 303,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:27.887248"
+      },
+      {
+        "id": 304,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:33.737687"
+      },
+      {
+        "id": 305,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:34.011694"
+      },
+      {
+        "id": 306,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:03:34.628797"
+      },
+      {
+        "id": 307,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 120,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:07:14.636535"
+      },
+      {
+        "id": 308,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 169,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:16:19.405262"
+      },
+      {
+        "id": 309,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 198,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:36:21.766456"
+      },
+      {
+        "id": 310,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 103,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:36:22.338282"
+      },
+      {
+        "id": 311,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 197,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:39:19.731801"
+      },
+      {
+        "id": 312,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 182,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:43:28.251005"
+      },
+      {
+        "id": 313,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 130,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:43:28.785242"
+      },
+      {
+        "id": 314,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 121,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:46:39.285485"
+      },
+      {
+        "id": 315,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 116,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:50:58.542850"
+      },
+      {
+        "id": 316,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 120,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:53:50.168943"
+      },
+      {
+        "id": 317,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 153,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T20:56:48.468542"
+      },
+      {
+        "id": 318,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 65,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:00:47.129820"
+      },
+      {
+        "id": 319,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 191,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:04:15.387009"
+      },
+      {
+        "id": 320,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 173,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:07:08.990695"
+      },
+      {
+        "id": 321,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:09:44.757457"
+      },
+      {
+        "id": 322,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 115,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:10:09.329878"
+      },
+      {
+        "id": 323,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 56,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:13:56.369538"
+      },
+      {
+        "id": 324,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 197,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:16:40.468545"
+      },
+      {
+        "id": 325,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:17:39.126284"
+      },
+      {
+        "id": 326,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 77,
+        "multiplier_value": 0,
+        "created_at": "2026-04-11T21:19:22.949114"
+      },
+      {
+        "id": 327,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T05:43:03.522121"
+      },
+      {
+        "id": 328,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T05:43:57.701725"
+      },
+      {
+        "id": 329,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T05:44:12.485299"
+      },
+      {
+        "id": 330,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 73,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T05:44:22.599879"
+      },
+      {
+        "id": 331,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 142,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:04:52.138719"
+      },
+      {
+        "id": 332,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 59,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:08:22.966577"
+      },
+      {
+        "id": 333,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:09:34.463618"
+      },
+      {
+        "id": 334,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:11:14.333469"
+      },
+      {
+        "id": 335,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 166,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:11:59.071740"
+      },
+      {
+        "id": 336,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 161,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:11:59.616461"
+      },
+      {
+        "id": 337,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 135,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:16:03.223616"
+      },
+      {
+        "id": 338,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 105,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:19:07.243154"
+      },
+      {
+        "id": 339,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 119,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:19:08.103799"
+      },
+      {
+        "id": 340,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 185,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:22:03.385607"
+      },
+      {
+        "id": 341,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 155,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:22:03.664164"
+      },
+      {
+        "id": 342,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 63,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:24:39.526453"
+      },
+      {
+        "id": 343,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 71,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:29:35.910084"
+      },
+      {
+        "id": 344,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:30:24.120032"
+      },
+      {
+        "id": 345,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 58,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:32:36.596037"
+      },
+      {
+        "id": 346,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 105,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:35:17.890544"
+      },
+      {
+        "id": 347,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 191,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:35:18.163083"
+      },
+      {
+        "id": 348,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 57,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T06:38:05.275528"
+      },
+      {
+        "id": 349,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 194,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T08:28:49.195230"
+      },
+      {
+        "id": 350,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:09.338716"
+      },
+      {
+        "id": 351,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:09.634321"
+      },
+      {
+        "id": 352,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:09.915585"
+      },
+      {
+        "id": 353,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:15.632483"
+      },
+      {
+        "id": 354,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:15.909466"
+      },
+      {
+        "id": 355,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:26:16.238895"
+      },
+      {
+        "id": 356,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:23.358159"
+      },
+      {
+        "id": 357,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:23.636390"
+      },
+      {
+        "id": 358,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:23.915606"
+      },
+      {
+        "id": 359,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:29.595202"
+      },
+      {
+        "id": 360,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:29.860720"
+      },
+      {
+        "id": 361,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:46:30.138965"
+      },
+      {
+        "id": 362,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:01.692397"
+      },
+      {
+        "id": 363,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:01.985130"
+      },
+      {
+        "id": 364,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:02.295593"
+      },
+      {
+        "id": 365,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:08.545220"
+      },
+      {
+        "id": 366,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:08.834726"
+      },
+      {
+        "id": 367,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T11:53:09.139243"
+      },
+      {
+        "id": 368,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:43.891008"
+      },
+      {
+        "id": 369,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:44.187124"
+      },
+      {
+        "id": 370,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:44.478189"
+      },
+      {
+        "id": 371,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:50.279671"
+      },
+      {
+        "id": 372,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:50.559565"
+      },
+      {
+        "id": 373,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:03:50.832430"
+      },
+      {
+        "id": 374,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:39.094401"
+      },
+      {
+        "id": 375,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:39.402369"
+      },
+      {
+        "id": 376,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:39.685719"
+      },
+      {
+        "id": 377,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:46.257499"
+      },
+      {
+        "id": 378,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:46.581705"
+      },
+      {
+        "id": 379,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:09:46.883930"
+      },
+      {
+        "id": 380,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:01.996606"
+      },
+      {
+        "id": 381,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:02.293980"
+      },
+      {
+        "id": 382,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:02.579296"
+      },
+      {
+        "id": 383,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:08.391019"
+      },
+      {
+        "id": 384,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:08.667218"
+      },
+      {
+        "id": 385,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:25:08.951148"
+      },
+      {
+        "id": 386,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:10.316925"
+      },
+      {
+        "id": 387,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:10.597254"
+      },
+      {
+        "id": 388,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:10.868505"
+      },
+      {
+        "id": 389,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:16.660578"
+      },
+      {
+        "id": 390,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:16.957200"
+      },
+      {
+        "id": 391,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T12:38:17.235447"
+      },
+      {
+        "id": 392,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 100,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T14:32:08.327903"
+      },
+      {
+        "id": 393,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T14:35:41.822413"
+      },
+      {
+        "id": 394,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 95,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T14:37:14.980702"
+      },
+      {
+        "id": 395,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:01.144457"
+      },
+      {
+        "id": 396,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:01.472839"
+      },
+      {
+        "id": 397,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:01.806823"
+      },
+      {
+        "id": 398,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:09.560231"
+      },
+      {
+        "id": 399,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:09.871163"
+      },
+      {
+        "id": 400,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:37:10.161875"
+      },
+      {
+        "id": 401,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:39:54.295739"
+      },
+      {
+        "id": 402,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:39:54.570440"
+      },
+      {
+        "id": 403,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:39:54.843135"
+      },
+      {
+        "id": 404,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:40:00.712354"
+      },
+      {
+        "id": 405,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:40:01.012085"
+      },
+      {
+        "id": 406,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:40:01.322738"
+      },
+      {
+        "id": 407,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 147,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:48:58.707386"
+      },
+      {
+        "id": 408,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:50:00.646703"
+      },
+      {
+        "id": 409,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 175,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:51:43.138546"
+      },
+      {
+        "id": 410,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 70,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:51:43.417223"
+      },
+      {
+        "id": 411,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:33.401050"
+      },
+      {
+        "id": 412,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:33.690742"
+      },
+      {
+        "id": 413,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:34.007927"
+      },
+      {
+        "id": 414,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:40.066713"
+      },
+      {
+        "id": 415,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:40.365263"
+      },
+      {
+        "id": 416,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T21:59:40.668137"
+      },
+      {
+        "id": 417,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:40.625845"
+      },
+      {
+        "id": 418,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:40.940629"
+      },
+      {
+        "id": 419,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:41.248343"
+      },
+      {
+        "id": 420,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:47.597291"
+      },
+      {
+        "id": 421,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:47.920435"
+      },
+      {
+        "id": 422,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:00:48.245808"
+      },
+      {
+        "id": 423,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:36.043141"
+      },
+      {
+        "id": 424,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:36.338588"
+      },
+      {
+        "id": 425,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:36.633652"
+      },
+      {
+        "id": 426,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:42.786075"
+      },
+      {
+        "id": 427,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:43.080104"
+      },
+      {
+        "id": 428,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:35:43.373101"
+      },
+      {
+        "id": 429,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:42.497429"
+      },
+      {
+        "id": 430,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:42.822438"
+      },
+      {
+        "id": 431,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:43.149135"
+      },
+      {
+        "id": 432,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:49.836664"
+      },
+      {
+        "id": 433,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:50.151352"
+      },
+      {
+        "id": 434,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:39:50.456698"
+      },
+      {
+        "id": 435,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 65,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:46:39.628977"
+      },
+      {
+        "id": 436,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 191,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:49:26.003046"
+      },
+      {
+        "id": 437,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:02.401273"
+      },
+      {
+        "id": 438,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:02.756272"
+      },
+      {
+        "id": 439,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:03.077668"
+      },
+      {
+        "id": 440,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:09.938443"
+      },
+      {
+        "id": 441,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:10.255121"
+      },
+      {
+        "id": 442,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-12T22:56:10.575453"
+      },
+      {
+        "id": 443,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 165,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:04:37.904887"
+      },
+      {
+        "id": 444,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 83,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:07:02.920082"
+      },
+      {
+        "id": 445,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 51,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:09:48.798283"
+      },
+      {
+        "id": 446,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 180,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:12:21.259971"
+      },
+      {
+        "id": 447,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:00.932224"
+      },
+      {
+        "id": 448,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:01.268992"
+      },
+      {
+        "id": 449,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:01.678926"
+      },
+      {
+        "id": 450,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:09.206105"
+      },
+      {
+        "id": 451,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:09.544305"
+      },
+      {
+        "id": 452,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T01:15:09.880834"
+      },
+      {
+        "id": 453,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 64,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:34:59.710431"
+      },
+      {
+        "id": 454,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 65,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:35:00.031215"
+      },
+      {
+        "id": 455,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 66,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:37:22.973708"
+      },
+      {
+        "id": 456,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 140,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:40:11.837165"
+      },
+      {
+        "id": 457,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 158,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:42:39.029213"
+      },
+      {
+        "id": 458,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 114,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:42:39.360362"
+      },
+      {
+        "id": 459,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:47:17.945694"
+      },
+      {
+        "id": 460,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 200,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:47:44.038602"
+      },
+      {
+        "id": 461,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:49:57.578726"
+      },
+      {
+        "id": 462,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 176,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:50:34.981452"
+      },
+      {
+        "id": 463,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 100,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:53:11.694881"
+      },
+      {
+        "id": 464,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 138,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T07:58:26.483714"
+      },
+      {
+        "id": 465,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 62,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T08:01:29.524220"
+      },
+      {
+        "id": 466,
+        "type": "legendary_sword",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T08:03:07.740228"
+      },
+      {
+        "id": 467,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 66,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T08:04:38.904495"
+      },
+      {
+        "id": 468,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 77,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:27:02.048496"
+      },
+      {
+        "id": 469,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 128,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:27:02.510667"
+      },
+      {
+        "id": 470,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 61,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:30:01.722496"
+      },
+      {
+        "id": 471,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 125,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:33:00.297693"
+      },
+      {
+        "id": 472,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:10.710733"
+      },
+      {
+        "id": 473,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:11.047818"
+      },
+      {
+        "id": 474,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:11.335517"
+      },
+      {
+        "id": 475,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:17.994373"
+      },
+      {
+        "id": 476,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:18.302799"
+      },
+      {
+        "id": 477,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T12:37:18.613460"
+      },
+      {
+        "id": 478,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:45.387568"
+      },
+      {
+        "id": 479,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:45.723094"
+      },
+      {
+        "id": 480,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:46.104932"
+      },
+      {
+        "id": 481,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:52.911903"
+      },
+      {
+        "id": 482,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:53.222393"
+      },
+      {
+        "id": 483,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:17:53.524532"
+      },
+      {
+        "id": 484,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:49.004459"
+      },
+      {
+        "id": 485,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:49.347489"
+      },
+      {
+        "id": 486,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:49.662992"
+      },
+      {
+        "id": 487,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:56.383598"
+      },
+      {
+        "id": 488,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:56.710737"
+      },
+      {
+        "id": 489,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:18:57.036271"
+      },
+      {
+        "id": 490,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:20:53.986933"
+      },
+      {
+        "id": 491,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:20:54.735917"
+      },
+      {
+        "id": 492,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:20:55.382724"
+      },
+      {
+        "id": 493,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:21:07.460314"
+      },
+      {
+        "id": 494,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:21:08.052508"
+      },
+      {
+        "id": 495,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:21:08.853949"
+      },
+      {
+        "id": 496,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:44:51.469629"
+      },
+      {
+        "id": 497,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:44:52.194460"
+      },
+      {
+        "id": 498,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:44:53.139563"
+      },
+      {
+        "id": 499,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:45:06.619477"
+      },
+      {
+        "id": 500,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:45:07.234693"
+      },
+      {
+        "id": 501,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T13:45:07.879155"
+      },
+      {
+        "id": 502,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:25.926135"
+      },
+      {
+        "id": 503,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:27.053353"
+      },
+      {
+        "id": 504,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:28.072105"
+      },
+      {
+        "id": 505,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:42.265953"
+      },
+      {
+        "id": 506,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:43.238109"
+      },
+      {
+        "id": 507,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:01:44.162513"
+      },
+      {
+        "id": 508,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:15.133224"
+      },
+      {
+        "id": 509,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:15.720963"
+      },
+      {
+        "id": 510,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:16.509684"
+      },
+      {
+        "id": 511,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:29.429032"
+      },
+      {
+        "id": 512,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:30.060659"
+      },
+      {
+        "id": 513,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:23:30.762796"
+      },
+      {
+        "id": 514,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:42.637184"
+      },
+      {
+        "id": 515,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:43.513607"
+      },
+      {
+        "id": 516,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:44.110426"
+      },
+      {
+        "id": 517,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:55.546095"
+      },
+      {
+        "id": 518,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:56.203980"
+      },
+      {
+        "id": 519,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T14:30:56.764061"
+      },
+      {
+        "id": 520,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:20.847126"
+      },
+      {
+        "id": 521,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:21.447940"
+      },
+      {
+        "id": 522,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:22.001241"
+      },
+      {
+        "id": 523,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:32.941181"
+      },
+      {
+        "id": 524,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:33.581570"
+      },
+      {
+        "id": 525,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-13T15:14:34.224494"
+      },
+      {
+        "id": 526,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:24.690643"
+      },
+      {
+        "id": 527,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:25.333146"
+      },
+      {
+        "id": 528,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:25.850385"
+      },
+      {
+        "id": 529,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:36.252974"
+      },
+      {
+        "id": 530,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:36.754599"
+      },
+      {
+        "id": 531,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T11:48:37.224985"
+      },
+      {
+        "id": 532,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:11.288042"
+      },
+      {
+        "id": 533,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:11.944290"
+      },
+      {
+        "id": 534,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:12.428528"
+      },
+      {
+        "id": 535,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:23.153301"
+      },
+      {
+        "id": 536,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:23.699992"
+      },
+      {
+        "id": 537,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T12:01:24.162829"
+      },
+      {
+        "id": 538,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:15:57.297172"
+      },
+      {
+        "id": 539,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:15:57.891093"
+      },
+      {
+        "id": 540,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:15:58.351818"
+      },
+      {
+        "id": 541,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:16:08.090212"
+      },
+      {
+        "id": 542,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:16:08.522999"
+      },
+      {
+        "id": 543,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:16:09.016930"
+      },
+      {
+        "id": 544,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 136,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:20:37.603754"
+      },
+      {
+        "id": 545,
+        "type": "super_crate",
+        "amount": 1,
+        "xp_reward": 60,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:23:51.914727"
+      },
+      {
+        "id": 546,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:26:56.494850"
+      },
+      {
+        "id": 547,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:26:57.089559"
+      },
+      {
+        "id": 548,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:26:57.546162"
+      },
+      {
+        "id": 549,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:27:07.352412"
+      },
+      {
+        "id": 550,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:27:07.790637"
+      },
+      {
+        "id": 551,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:27:08.259342"
+      },
+      {
+        "id": 552,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:20.415877"
+      },
+      {
+        "id": 553,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:21.058245"
+      },
+      {
+        "id": 554,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:21.669063"
+      },
+      {
+        "id": 555,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:32.605407"
+      },
+      {
+        "id": 556,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:33.059102"
+      },
+      {
+        "id": 557,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:43:33.560418"
+      },
+      {
+        "id": 558,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:08.522102"
+      },
+      {
+        "id": 559,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:09.211478"
+      },
+      {
+        "id": 560,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:09.681522"
+      },
+      {
+        "id": 561,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:20.224924"
+      },
+      {
+        "id": 562,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:20.695260"
+      },
+      {
+        "id": 563,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:49:21.148403"
+      },
+      {
+        "id": 564,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:28.359826"
+      },
+      {
+        "id": 565,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:28.986390"
+      },
+      {
+        "id": 566,
+        "type": "free_teleport",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:29.488100"
+      },
+      {
+        "id": 567,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:40.032429"
+      },
+      {
+        "id": 568,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:40.516925"
+      },
+      {
+        "id": 569,
+        "type": "shield_potion",
+        "amount": 1,
+        "xp_reward": 0,
+        "multiplier_value": 0,
+        "created_at": "2026-04-15T13:57:41.018947"
+      }
+    ],
+    "sector": 7,
+    "completed_tutorial": true,
+    "last_level": 131033,
+    "created_at": "2026-04-08T18:37:58.446981+00:00",
+    "updated_at": "2026-04-15T13:57:41.900838+00:00",
+    "base_resources": {
+      "resources": {
+        "wood": 8771,
+        "bronze": 9751,
+        "iron": 6838,
+        "relics": 87,
+        "diamond": 10600
+      },
+      "food": 9567,
+      "current_streak": 0,
+      "military": {},
+      "traps": {}
+    },
+    "base_name": "Domain Expansion",
+    "base_name_changes": 0,
+    "base_level": 1,
+    "war_points": 0,
+    "wins": 15,
+    "losses": 0,
+    "kings_captured": 0,
+    "times_captured": 0,
+    "alliance_id": null,
+    "military": {
+      "pawn": 1005,
+      "footmen": 46,
+      "warlords": 10,
+      "castellans": 19,
+      "archers": 49,
+      "lancers": 4,
+      "knight": 500
+    },
+    "traps": {
+      "mousetrap": 100,
+      "inferno": 100,
+      "spike_pit": 100,
+      "void_lattice": 100,
+      "poison_gas": 100
+    },
+    "buffs": {
+      "login_streak": 49,
+      "last_login": "2026-04-15T13:24:36.949748",
+      "consecutive_seven_letter": 1
+    },
+    "combo_count": 1370,
+    "weapons": {
+      "machine_gun_turret": {
+        "charges_remaining": 1,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "wood_extractor": {
+        "charges_remaining": 8,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "diamond_extractor": {
+        "charges_remaining": 3,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "emp_blast": {
+        "charges_remaining": 8,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "iron_extractor": {
+        "charges_remaining": 4,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "plasma_cannon": {
+        "charges_remaining": 4,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "resource_drain": {
+        "charges_remaining": 3,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "silver_siphon": {
+        "charges_remaining": 3,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "xp_siphon": {
+        "charges_remaining": 4,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "bronze_extractor": {
+        "charges_remaining": 6,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "shield_barrier": {
+        "charges_remaining": 2,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "reflective_armor": {
+        "charges_remaining": 1,
+        "cooldown_until": 0,
+        "last_used": null
+      },
+      "fortified_keep": {
+        "charges_remaining": 2,
+        "cooldown_until": 0,
+        "last_used": null
+      }
+    },
+    "game_saves": {},
+    "last_reset_date": null
+  }
+}

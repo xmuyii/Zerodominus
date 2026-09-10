@@ -1,0 +1,40 @@
+#find all python processes currently running 
+
+tasklist | findstr python
+taskkill /F /IM python3.11.exe /T
+#Targets all python lists 
+ ps aux | grep python
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏰 Domain Expansion (Level 12)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+       f"👤 *{username}*\n\n"
+        f"━━━━━━━━━━━━━━━━━\n"
+        f"**Level:** {level}\n"
+        f"**XP:** {xp}\n\n"
+        f"*Points:*\n"
+        f"📊 All-Time: **{all_time_points}**\n"
+        f"📈 Weekly: **{weekly_points}**\n\n"
+        f"*Statistics:*\n"
+        f"daily_quests": [],  
+        "last_quest_check": 0,  
+        f"chess_games": []
+        f"📝 Words: **{total_words}**\n"
+        f"🏆 Wins: **{wins}**\n"
+        f"💀 Losses: **{losses}**\n"
+        f"━━━━━━━━━━━━━━━━━",
+        parse_mode="Markdown",
+        reply_markup=markup
+
+#force bot processes to stop running
+
+Get-Process python -ErrorAction SilentlyContinue | Stop-Process -Force
+
+#run code
+
+python main.py
+
+customerservice.truthbook still has tokens
+bambamwata
+
+AND THE SAVE RESTART SCREEN SHOULD RUN THEN AFTER RUNNING, IT SHOULD WELCOME THEM AND ASK FOR THEIR NEW USERNAME, EVERY NEW PLAYER WHO JOINS WILL BE WELCOMED AND ASKED FOR THEIR USERNAME IMMEDIATELY IN THE DMS

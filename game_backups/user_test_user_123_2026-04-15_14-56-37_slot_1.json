@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-04-15_14-56-37",
+  "user_id": "test_user_123",
+  "reason": "slot_1",
+  "state": {
+    "id": "test_user_123",
+    "username": "TestPlayer",
+    "level": 5
+  }
+}

@@ -1,0 +1,9 @@
+Set-ExecutionPolicy -ExecutionPolicy Bypass -Scope Process
+npx ts-node src/index.ts
+npm install @colyseus/ws-transport
+npm uninstall colyseus
+total_seconds = rem.total_seconds()
+d = int(total_seconds // 86400)          # 86400 seconds in a day
+h = int((total_seconds % 86400) // 3600)
+m = int((total_seconds % 3600) // 60)
+shield_time = f" {d}d {h}h {m}m" if d > 0 else f" {h}h {m}m"

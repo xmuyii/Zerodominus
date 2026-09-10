@@ -1,0 +1,28 @@
+{
+  "name": "fusion-server",
+  "version": "1.0.0",
+  "description": "Fusion Combat Engine",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.22.2",
+    "uuid": "^9.0.0",
+    "ws": "^8.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.25",
+    "@types/node": "^20.19.41",
+    "@types/uuid": "^9.0.0",
+    "@types/ws": "^8.18.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

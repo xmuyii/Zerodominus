@@ -1,0 +1,334 @@
+
+Word Length,Resource,Use Case
+3 Letters,🪵 Wood,Building Barracks / Basic Shields
+4 Letters,🧱 Bronze,Training Light Infantry (Soldiers)
+5 Letters,⛓️ Iron,Heavy Armor / Siege Engines
+6 Letters,💎 Silver,"The ""Global Currency"" (Market/Crates)"
+7 Letters,🏺 Relics,Unlocking Sector Gates / End-game tech
+
+# Mapping logic
+resource_map = {3: "Wood", 4: "Bronze", 5: "Iron", 6: "Silver", 7: "Relic"}
+res = resource_map.get(len(guess), "Scraps")
+
+# Add to JSON
+profile["resources"][res] = profile["resources"].get(res, 0) + 1
+
+Also when the game is offline or being fixed
+I would like for it to say update in progress
+We add a military object to their JSON profile. They don't just "appear"—they must be minted.
+
+How to get Soldiers:
+The player must use the !train command. This converts your mined Bronze and Food into Units.
+
+Command: !train infantry
+
+Cost: 10 Bronze + 5 Food.
+
+Result: +1 Soldier.
+How to see Power:In the !inventory (or a new !base command), 
+we display their Power Level.
+Formula: $Power = 
+(Soldiers \times 10) + (Elite\_Units \times 50)$
+
+🌾 3. The Food & Sector Mechanic
+If we add Food, we introduce Upkeep. This keeps the game "sadistic."
+
+The Rule: If you have 100 soldiers but 0 food, your soldiers start deserting (dying) every hour.
+
+How to get Food: Since word games are about "thinking," 
+let's make Food a reward for "streaks." 
+If you get 3 words in a row during a Fusion round, 
+
+The Command: !setup base [Name]
+
+This locks their username and their base name into the JSON.
+
+From then on, when they score in the group, the bot says:
+
+🚩 [Dominion of Judah] has mined 🪵 Wood!
+the GameMaster gives you a Ration Pack.
+
+{
+  "username": "Muyiwa",
+  "base_name": "The Iron Fortress",
+  "sector": "Badlands Sector 8",
+  "resources": {
+    "wood": 45,
+    "bronze": 12,
+    "iron": 3,
+    "food": 20
+  },
+  "military": {
+    "infantry": 15,
+    "archers": 5,
+    "power_score": 200
+  },
+  "inventory": ["Bronze Key", "Steel Lockpick"]
+}
+The Strategic Loop
+Mining: Play !fusion to get raw Wood/Bronze/Iron.
+
+Training: Use !train to turn Bronze into Soldiers.
+
+Expansion: Once Power Score > 500, use !raze to attack a neighbor and steal their Silver.
+
+Survival: Keep playing Fusion to get Food so your army doesn't starve.
+
+Should we write the !train logic now so they can start building their first squad, or the !setup base command so they can claim their territory
+
+🛡️ The Military Hierarchy (Tiers 1-5)
+Each soldier has three core stats: Attack (ATK), Defense (DEF), and Upkeep (Food Cost per hour).
+
+Tier,Required Level,Unit Name,Stats (ATK/DEF),Upkeep,Description
+1,Level 1,Scavenger Grunt,10 / 5,1 🌾,Low-level fodder used for scouting and basic raids.
+2,Level 10,Bronze Warden,25 / 40,3 🌾,"Heavy shields. Hard to kill, but slow to move."
+3,Level 20,Viper Skirmisher,60 / 20,5 🌾,"Glass cannons. High damage, but die easily in direct combat."
+4,Level 35,Iron Phalanx,100 / 120,12 🌾,Elite units that dominate the Badlands.
+5,Level 50,Spire Sentinel,250 / 200,25 🌾,Pre-Prestige powerhouses. Only the richest can feed them.
+
+Prestige Note: Once a player hits Level 51, they "Prestige," unlocking Mythic Units like Soul-Reapers and Void-Walkers which require Relics to train.
+Tier 1: Pit of Scraps
+Target: Scavenger Grunts.
+
+Effect: Automatically kills up to 5 Grunts during a raid.
+
+Cost: 50 Wood.
+
+Tier 2: Corrosive Mist
+Target: Bronze Wardens.
+
+Effect: Dissolves bronze armor, reducing incoming DEF by 50%.
+
+Cost: 100 Bronze + 20 Iron.
+
+Tier 3: Tripwire Volley
+Target: Viper Skirmishers.
+
+Effect: Skirmishers have low health; this trap executes them before they can strike.
+
+Cost: 150 Wood + 50 Iron.
+
+Tier 4: Magnetic Maw
+Target: Iron Phalanx.
+
+Effect: Uses magnets to freeze heavy iron units in place for 30 seconds, letting your base defenses pick them off.
+
+Cost: 500 Iron + 100 Silver.
+
+Tier 5: The Feedback Loop
+Target: Spire Sentinels (and higher).
+
+Effect: A sadistic trap that turns the Sentinels' high power against them, dealing damage proportional to their own ATK.
+
+Cost: 1,000 Silver + 5 Relics.
+
+📊 How Players View Stats
+When a player types !army or !stats [Unit Name], they get a clean, technical readout.
+
+Example: !stats Viper Skirmisher
+
+🗡️ Unit: Viper Skirmisher (Tier 3)
+━━━━━━━━━━━━━━━
+🔥 Attack: 60
+🛡️ Defense: 20
+🍲 Upkeep: 5 Food/hr
+⚡ Special: Infiltrate - 10% chance to bypass Tier 1 traps.
+━━━━━━━━━━━━━━━
+🃏 GameMaster: "Fast, deadly, and fragile. Just like your ego."
+
+The Training Logic:
+When a player tries !train Viper, the code checks:
+
+Level: Does the player have enough XP for Level 20?
+
+Resources: Do they have the Iron and Food required?
+
+Tier,Required Level,Class,Chess Piece,Role,Stats (ATK/DEF)
+1,Level 1,The Footman,Pawn,Infantry: Shield-wall fodder.,10 / 20
+2,Level 10,The Deadeye,Archer,Ranged: Sniping from the backline.,35 / 10
+3,Level 20,The Lancer,Knight,"Cavalry: Fast, flanking maneuvers.",50 / 40
+4,Level 35,The Inquisitor,Bishop,Special: Precision strikes and debuffs.,110 / 80
+5,Level 50,The Castellan,Rook,Siege: Massive power and base defense.,250 / 300
+
+A Lancer (Cavalry) deals 2x Damage against Deadeyes (Archers), but takes 2x Damage from a Footman (Infantry) set in a "Spear-wall" stance.
+🪤 Traps: The Chess Counter-Plays
+These traps are specifically designed to dismantle the chess pieces your opponents send at your base.
+
+🕳️ The False Tile (Anti-Infantry/Pawn):
+
+Target: Footmen.
+
+Logic: Simple trapdoors that swallow the front line. Cheap to build with Wood.
+
+🕸️ The Web-Wire (Anti-Cavalry/Knight):
+
+Target: Lancers.
+
+Logic: High-tension wires that de-horse the cavalry. Requires Iron.
+
+🌫️ Smoke Screen (Anti-Archer/Deadeye):
+
+Target: Deadeyes.
+
+Logic: Blindness prevents arrows from hitting. They miss 80% of their shots. Requires Bronze.
+
+⚡ EMP Grid (Anti-Inquisitor/Bishop):
+
+Target: The Inquisitors.
+
+Logic: Disrupts their technical precision.
+
+💣 Demolition Charge (Anti-Castellan/Rook):
+
+Target: The Castellan.
+
+Logic: The only thing big enough to stop a walking fortress. High cost in Silver.
+
+🏛️ The Base & Hierarchy Command Logic
+Since we want players to name their base and manage this army, we need to implement the !base and !train commands using the logic from your players.json.
+
+Example: !base Output
+
+🏰 Base: Judah's Citadel [Sector 8]
+👤 Lord: Muyiwa (Lvl 22)
+━━━━━━━━━━━━━━━
+🛡️ Military Presence:
+• 15x Footmen (Pawn)
+• 4x Lancers (Knight)
+• 1x Inquisitor (Bishop)
+
+🔥 Global Power: 425
+🌾 Food Upkeep: -35/hr
+━━━━━━━━━━━━━━━
+🃏 GameMaster: "A Citadel? Looks more like a shack from here. But at least you have horses."
+
+Also by being on the weekly leaderboard, players should 
+automatically earn resources which they can use to train their 
+soldiers or build traps
+⚔️ 5. Soldier Classes (Core Types)
+
+You were right—keep it classic:
+
+4 Core Classes:
+🛡 Infantry (tanks)
+🏹 Rangers (archers)
+🐎 Cavalry (fast attackers)
+♟ Elite (special units / chess-inspired)
+🧬 6. Soldier Tiers (Cool Names + Roles)
+🟢 Tier 1 (Starter Units)
+
+Unlocked: Level 1–3
+
+🛡 Rustblade Guard (Infantry)
+🏹 Twigshot Scout (Ranger)
+🐎 Dustrunner (Cavalry)
+
+👉 Weak but cheap, fast to train
+
+🔵 Tier 2 (Structured Army)
+
+Unlocked: Level 4–7
+
+🛡 Ironwall Sentinel
+🏹 Longbow Striker
+🐎 Storm Rider
+
+👉 Balanced units
+
+🟣 Tier 3 (Specialized Units)
+
+Unlocked: Level 8–12
+
+🛡 Shieldbreaker Vanguard
+🏹 Piercing Hawk
+🐎 Thunder Cavalier
+
+👉 Start countering other units
+
+🔴 Tier 4 (Elite Army)
+
+Unlocked: Level 13–18
+
+🛡 Titan Legionnaire
+🏹 Phantom Sniper
+🐎 Blitz Warlord
+
+👉 High stats, expensive
+
+🟡 Tier 5 (Mythic Units)
+
+Unlocked: Level 19–25
+
+🛡 Eternal Colossus
+🏹 Void Archer
+🐎 Dragon Knight
+
+👉 Extremely powerful, rare
+
+♟ Elite Units (Chess Inspired)
+
+Unlocked gradually:
+
+♟ Pawn Guard (early filler)
+♞ Night Reaver (knight assassin)
+♜ Siege Rook (base destroyer)
+♝ Shadow Bishop (support/debuff)
+♛ War Queen (multi-role)
+♚ King’s Avatar (ultimate unit)
+📈 7. Soldier Stats (Visible to Players)
+
+Each soldier should show:
+
+❤️ Health
+⚔ Attack
+🛡 Defense
+⚡ Speed
+🍖 Upkeep (food consumption)
+🎯 Target Bonus (e.g. +20% vs cavalry)
+🪤 8. Trap System (Counters)
+
+Traps should counter specific unit types → adds strategy.
+
+🟢 Tier 1 Traps
+Spike Pit → destroys Cavalry
+Arrow Snare → weakens Rangers
+🔵 Tier 2 Traps
+Flame Grid → burns Infantry
+Tripwire Mines → slows all units
+🟣 Tier 3 Traps
+Ballista Nest → anti-cavalry burst
+Poison Fog → damages over time
+🔴 Tier 4 Traps
+Thunder Cage → disables elite units
+Mirror Ward → reflects damage
+🟡 Tier 5 Traps
+Void Collapse → wipes weakest units instantly
+Dragonfire Core → massive area damage
+🔥 9. Core Gameplay Loop (THIS IS IMPORTANT)
+
+This ties everything together:
+
+Play Word Fusion → gain resources
+Use resources → train soldiers
+Soldiers consume food → keep farming
+Attack players → gain loot
+Upgrade base + traps → defend
+Level up → unlock stronger units
+
+👉 This loop = addiction + progression
+
+💡 Final Idea (High Impact Feature)
+🔥 “Raid Windows”
+Players can only attack at certain times
+Creates tension + fairness
+🧠 “Scout Report”
+Before attack, see:
+Enemy soldiers
+Trap probability
+
+Command,Unit Type,Strength,Weakness
+!train footman,Pawn,"Cheap, stops Lancers.",Weak to Archers.
+!train deadeye,Archer,Kills Footmen from afar.,Crushed by Lancers.
+!train lancer,Knight,Destroys Deadeyes.,Trapped by Footmen.
+!train inquisitor,Bishop,High damage precision.,Very low health.
+!train castellan,Rook,Massive base defense.,Expensive upkeep.

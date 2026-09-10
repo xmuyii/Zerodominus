@@ -1,0 +1,23 @@
+"RESOURCE_KEY": {
+    "display_name": "",          # What players see
+    "emoji": "",                 # One emoji
+    "category": "",              # basic / premium / premium_scarce / crypto /
+                                 # commander_resource / protective_item
+    "stackable": True,
+    "tradeable": True/False,     # Can players send to alliance members?
+    "research_required": "",     # Research key, or None if available from start
+    "max_stack": 999999,
+    "base_weight": 1,            # 0 for digital/weightless resources
+    "description": "",
+    "drop_sources": [],          # node names, sector IDs, hazard names, game events
+    "shop_purchasable": True/False,
+    "shop_cost": {},             # {"gold": X} or {"bitcoin": X}
+    "consumable": True/False,    # For protective items / one-use items
+    "duration_minutes": None,    # For consumables with timers
+    "protects_against": [],      # For protective items
+    "sink_uses": [],             # What destroys/consumes this resource
+    "conversion": None,          # {"to": "other_key", "rate": X} if convertible
+    "commander_only": False,     # True = doesn't appear in base vault
+    "regen_per_hour": None,      # For regenerating resources like energy
+    "decimal_allowed": False,    # True for BTC-type resources
+},
